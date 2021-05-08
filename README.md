@@ -1,2 +1,2 @@
-# sample-mg-pdf.github.io
+# sample1
 samplepdf
